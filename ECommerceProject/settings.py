@@ -133,3 +133,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 # print("Hello")
+
+# for i in range(0, 10):
+#     print(i)
